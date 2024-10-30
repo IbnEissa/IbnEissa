@@ -13,7 +13,7 @@ I am dedicated to continuously enhancing features and resolving bugs, ensuring t
 
 ![Muhammed CV](https://github.com/IbnEissa/IbnEissa/blob/main/YourCV.png?raw=true)
 
-[Download my CV (PDF)](https://github.com/IbnEissa/IbnEissa/blob/main/MuhammedEssa CV.pdf)
+[Download my CV (PDF)](https://github.com/IbnEissa/IbnEissa/blob/main/MuhammedEssaCV.pdf)
 
 <!---
 YourUsername/YourRepo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
