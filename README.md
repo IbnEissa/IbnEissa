@@ -30,7 +30,7 @@ For deployment, the HTML file can be hosted on any static site server, such as G
 
 ### Preview
 
-![Muhammed CV](https://github.com/IbnEissa/IbnEissa/blob/main/MuhammedEssaCV.png?raw=true)
+![Muhammed CV](https://github.com/IbnEissa/IbnEissa/blob/main/MuhammedEssaCV_page1.png?raw=true)
 
 [Download my CV (PDF)](https://github.com/IbnEissa/IbnEissa/blob/main/MuhammedEssaCV.pdf)
 
