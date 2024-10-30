@@ -4,7 +4,7 @@ I have a passion for creating seamless user experiences. I excel in both front-e
 
 I am dedicated to continuously enhancing features and resolving bugs, ensuring the development of modern and user-friendly websites and applications. My passion for software development drives me to excel in my work. I possess strong interpersonal skills and thrive in both collaborative team settings and independent projects. Proficient in version control systems like Git, GitHub, and GitLab, I am well-equipped to contribute effectively to project goals. Always eager to learn and innovate in tech!
 
-- **Date and Place of Birth:** Yemen, Thamar, Anes Bani Essa (2000/2/3).
+- **Date and Place of Birth:** Yemen, Thamar, Anes ,Bani Essa (2000/2/3).
 
 ### Social Links and Profiles:
 - <a href="mailto:emuhammedhamoud@gmail.com">Gmail</a> | 
