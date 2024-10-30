@@ -20,7 +20,7 @@ This repository includes a structured HTML and CSS version of my CV, showcasing 
 
 To view the CV in HTML format:
 1. Clone the repository.
-2. Open `index.html` in your web browser.
+2. Open `MuhammedCV.html` in your web browser.
 
 For deployment, the HTML file can be hosted on any static site server, such as GitHub Pages.
 
