@@ -4,17 +4,18 @@ I am dedicated to continuously enhancing features and resolving bugs, ensuring t
 Date and place of birth in Yemen, Thamar, Anes Bani Essa  (2000/2/3).
 
 
-Social links and profiles:
-Gmail |
-Outlook |
-GitLab |
-Facebook |
-Linked In |
-Bayt Profile |
-For9a Profile |
-Freelancer Profile |
-Indeed Profile |
-Upwork Profile |
+### Social Links and Profiles:
+- [Gmail](mailto:your-email@gmail.com) |
+- [Outlook](mailto:your-email@outlook.com) |
+- [GitLab](https://gitlab.com/your-profile) |
+- [Facebook](https://facebook.com/your-profile) |
+- [LinkedIn](https://linkedin.com/in/your-profile) |
+- [Bayt Profile](https://bayt.com/en/profile/your-profile) |
+- [For9a Profile](https://for9a.com/en/user/your-profile) |
+- [Freelancer Profile](https://www.freelancer.com/u/your-profile) |
+- [Indeed Profile](https://www.indeed.com/myaccount) |
+- [Upwork Profile](https://www.upwork.com/freelancers/~your-profile)
+
 
 
 My projects:
