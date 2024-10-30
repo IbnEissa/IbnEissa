@@ -1,40 +1,51 @@
 ## 👋 Hi, I’m Muhammed Essa, a Full-stack Developer
 
-I have a passion for creating seamless user experiences. I excel in both front-end and back-end technologies, enjoy problem-solving, and thrive in collaborative environments. My expertise lies in leveraging modern programming languages such as Java, PHP, and Python, along with design technologies like XML, HTML, CSS, and JavaScript. I specialize in web development using frameworks like Django and ASP.NET MVC, and I have a strong foundation in React.js. Additionally, I have experience customizing ERP systems to meet specific needs.
+<div align="center">
+    <h2>Eng. Muhammed Hamoud Ahmed Essa</h2>
+    <p><strong>Full-Stack Developer</strong></p>
+    <p>Location: Sana’a, Yemen | Experience: 1 Year, 4 Months</p>
+    <p>Email: <a href="mailto:emuhammedhamoud@gmail.com">emuhammedhamoud@gmail.com</a> | Phone: +967771036353</p>
+</div>
 
-I am dedicated to continuously enhancing features and resolving bugs, ensuring the development of modern and user-friendly websites and applications. My passion for software development drives me to excel in my work. I possess strong interpersonal skills and thrive in both collaborative team settings and independent projects. Proficient in version control systems like Git, GitHub, and GitLab, I am well-equipped to contribute effectively to project goals. Always eager to learn and innovate in tech!
+### Profile
+Software Developer at GravitySoft
 
-- **Date and Place of Birth:** Yemen, Thamar, Anes Bani Essa (2000/2/3).
+### Personal Information
+- **Date of Birth:** 3 February 2000
+- **Gender:** Male
+- **Nationality:** Yemeni
+- **Marital Status:** Single
 
-### CV Project Overview
+### Education
+- **Sana’a Community College** - Bachelor’s degree in Computer Programming (June 2019 – October 2023)
+- **ForYou Institute** - Intermediate English Level (2018 - 2019)
+- **Alhan Bin Malek High School** (2017 - 2018)
 
-This repository includes a structured HTML and CSS version of my CV, showcasing my skills, education, projects, and experience in a web-friendly format. It is designed to be responsive and easily readable on various devices.
+### Projects
+#### Anaqa Application
+- *Aug 2022 - Oct 2022*: Graduation project - Android application for clothing stores to market products and process customer orders.
 
-#### CV Highlights:
-- **Personal Information** - Basic information and contact details.
-- **Education and Projects** - Detailed educational background and recent projects.
-- **Skills** - Proficiency in web, Android, and desktop development tools and frameworks.
-- **Contact Information** - Methods for reaching out.
+#### School Management System (SMS)
+- *Oct 2023 – Jan 2024*: A system for managing school processes, storing student and teacher data, and tracking attendance.
 
-### How to View
+### Skills
+**Web Development**  
+HTML, CSS, JavaScript, PHP (Laravel), ASP.NET CORE, Django, Flask
 
-To view the CV in HTML format:
-1. Clone the repository.
-2. Open `MuhammedCV.html` in your web browser.
+**Android Development**  
+Flutter, Java
 
-For deployment, the HTML file can be hosted on any static site server, such as GitHub Pages.
+**Desktop Development**  
+C#, Python
 
-### Social Links and Profiles:
-- <a href="mailto:emuhammedhamoud@gmail.com">Gmail</a> | 
-- <a href="https://gitlab.com/emuhammedhamoud">GitLab</a> | 
+**Other Skills**  
+Azure DevOps, Git, GitHub, Windows Server, IT Management
+
+### Social Links and Profiles
+- [Gmail](mailto:emuhammedhamoud@gmail.com)  
+- [GitLab](https://gitlab.com/emuhammedhamoud)  
 
 ### Preview
-
-![Muhammed CV](https://github.com/IbnEissa/IbnEissa/blob/main/MuhammedEssaCV_page1.png?raw=true)
+![Muhammed CV](https://github.com/IbnEissa/IbnEissa/blob/main/MuhammedEssaCV.png?raw=true)
 
 [Download my CV (PDF)](https://github.com/IbnEissa/IbnEissa/blob/main/MuhammedEssaCV.pdf)
-
-<!---
-YourUsername/YourRepo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
