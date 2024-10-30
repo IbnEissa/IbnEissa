@@ -11,9 +11,9 @@ I am dedicated to continuously enhancing features and resolving bugs, ensuring t
 - <a href="https://gitlab.com/emuhammedhamoud">GitLab</a> | 
 
 
-![Muhammed CV](https://github.com/YourUsername/YourRepo/blob/main/YourCV.png?raw=true)
+![Muhammed CV](https://github.com/IbnEissa/IbnEissa/blob/main/YourCV.png?raw=true)
 
-[Download my CV (PDF)](https://github.com/YourUsername/YourRepo/blob/main/YourCV.pdf)
+[Download my CV (PDF)](https://github.com/IbnEissa/IbnEissa/blob/main/YourCV.pdf)
 
 <!---
 YourUsername/YourRepo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
