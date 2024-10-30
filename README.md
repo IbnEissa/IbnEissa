@@ -16,6 +16,6 @@ I am dedicated to continuously enhancing features and resolving bugs, ensuring t
 [Download my CV (PDF)](https://github.com/IbnEissa/IbnEissa/blob/main/MuhammedEssaCV.pdf)
 
 <!---
-YourUsername/YourRepo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IbnEissa/IbnEissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
