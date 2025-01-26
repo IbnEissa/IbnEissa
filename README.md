@@ -1,21 +1,71 @@
- ## 👋 Hi, I’m Muhammed Essa, a Full-stack Developer
+ # Muhammed Essa
+### Full-Stack Developer | Web Development Specialist
 
-I have a passion for creating seamless user experiences. I excel in both front-end and back-end technologies, enjoy problem-solving, and thrive in collaborative environments. My expertise lies in leveraging modern programming languages such as Java, PHP, and Python, along with design technologies like XML, HTML, CSS, and JavaScript. I specialize in web development using frameworks like Django and ASP.NET MVC, and I have a strong foundation in React.js. Additionally, I have experience customizing ERP systems to meet specific needs.
+<div align="center">
+  <img src="https://github.com/IbnEissa/IbnEissa/blob/main/MuhammedEssaCV_page1.png?raw=true" alt="Muhammed Essa Profile" width="400">
+</div>
 
-I am dedicated to continuously enhancing features and resolving bugs, ensuring the development of modern and user-friendly websites and applications. My passion for software development drives me to excel in my work. I possess strong interpersonal skills and thrive in both collaborative team settings and independent projects. Proficient in version control systems like Git, GitHub, and GitLab, I am well-equipped to contribute effectively to project goals. Always eager to learn and innovate in tech!
+## 👋 About Me
 
-- **Date and Place of Birth:** Yemen, Thamar, Anes ,Bani Essa (2000/2/3).
+I'm a passionate Full-Stack Developer with expertise in creating seamless, user-centric web applications. With a strong foundation in both front-end and back-end technologies, I specialize in delivering robust solutions that combine functionality with exceptional user experience.
 
-### Social Links and Profiles:
-- <a href="mailto:emuhammedhamoud@gmail.com">Gmail</a> | 
-- <a href="https://gitlab.com/emuhammedhamoud">GitLab</a> | 
+## 🛠️ Technical Skills
 
+### Programming Languages
+- Java
+- PHP
+- Python
+- C#
+- JavaScript/TypeScript
 
-![Muhammed CV](https://github.com/IbnEissa/IbnEissa/blob/main/MuhammedEssaCV_page1.png?raw=true)
+### Frontend Development
+- HTML5/CSS3
+- React.js
+- XML
+- Responsive Design
+- UI/UX Best Practices
 
+### Backend Development
+- Django
+- PHP Laravel
+- ASP.NET MVC
+- RESTful APIs
+- Database Management
+
+### Tools & Technologies
+- Git (GitHub/GitLab)
+- ERP Systems Customization
+- Version Control
+- Azure DevOps
+- Agile Methodologies
+
+## 💼 Professional Summary
+
+- Experienced in full-stack web development with modern frameworks
+- Specialized in ERP systems customization and optimization
+- Strong problem-solving and debugging capabilities
+- Excellence in collaborative team environments
+- Continuous learner and technology enthusiast
+- Dedicated to creating modern, user-friendly applications
+
+## 🌟 Key Strengths
+
+- End-to-end application development
+- Technical problem solving
+- Team collaboration
+- Project management
+- System optimization
+- User experience design
+
+## 📫 Connect With Me
+
+- Email: [emuhammedhamoud@gmail.com](mailto:emuhammedhamoud@gmail.com)
+- GitLab: [emuhammedhamoud](https://gitlab.com/emuhammedhamoud)
+
+## 📄 Resume
 [Download my CV (PDF)](https://github.com/IbnEissa/IbnEissa/blob/main/MuhammedEssaCV.pdf)
 
-<!---
-IbnEissa/IbnEissa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+<div align="center">
+  <i>Always eager to learn and innovate in tech!</i>
+</div>
